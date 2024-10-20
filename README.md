@@ -24,8 +24,11 @@ zipfile (built-in)
 The interface is designed for simplicity and ease of use. The sidebar contains the following input fields:
 
 Search Query: Enter the object or term to search for images.
+
 Number of Images: Specify the number of images to download (default is 5, maximum is 50).
+
 Recipient Email: Input the email address where the zip file of images will be sent.
+
 Once the inputs are provided, the user clicks the "Download and Send Images" button, triggering the download and email functions.
 
 ![Screenshot 2024-10-21 034811](https://github.com/user-attachments/assets/c6e4574c-3a2d-4d1f-9f79-8b12cff4bb18)

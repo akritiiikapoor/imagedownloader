@@ -38,3 +38,15 @@ Using the smtplib library, the app sends the ZIP file as an attachment to the re
 
 
 ![Screenshot 2024-10-21 035020](https://github.com/user-attachments/assets/63aa5a76-51ae-4174-ad09-816c0a27f08b)
+
+
+Requirements
+To run this app locally, you will need:
+
+Python 3.x
+Required Python libraries:
+Streamlit
+SerpAPI (pip install serpapi)
+Requests
+smtplib (built-in)
+zipfile (built-in)

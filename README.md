@@ -44,7 +44,9 @@ Requirements
 To run this app locally, you will need:
 
 Python 3.x
+
 Required Python libraries:
+
 Streamlit
 SerpAPI (pip install serpapi)
 Requests

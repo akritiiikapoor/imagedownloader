@@ -47,6 +47,9 @@ The interface is user-friendly and includes the following **sidebar input fields
    - Compress the images into a ZIP file.  
    - Send the ZIP file to the specified email address.  
 
+
+![Screenshot 2024-10-21 034811](https://github.com/user-attachments/assets/c6e4574c-3a2d-4d1f-9f79-8b12cff4bb18)
+
 ---
 
 ## **Features**
@@ -64,11 +67,6 @@ The interface is user-friendly and includes the following **sidebar input fields
 - **Python Standard Libraries**: `requests`, `zipfile`.  
 
 ---
-
-**Enjoy searching, downloading, and sharing images seamlessly!** 🚀
-
-
-![Screenshot 2024-10-21 034811](https://github.com/user-attachments/assets/c6e4574c-3a2d-4d1f-9f79-8b12cff4bb18)
 
 ## Key Interface Elements:
 - Custom Styling: The app uses custom CSS to enhance its appearance.

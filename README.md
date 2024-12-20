@@ -1,27 +1,27 @@
 # imagedownloader
 
-Streamlit Image Downloader and Email Sender 
+##Streamlit Image Downloader and Email Sender 
 
-A simple web app that lets users search, download, zip, and email images based on a search query. Built using Python, Streamlit, SerpAPI, and smtplib.
+--A simple web app that lets users search, download, zip, and email images based on a search query. Built using Python, Streamlit, SerpAPI, and smtplib.
 
-This Streamlit-based app allows users to search and download images from Google, compress them into a ZIP file, and send the images via email. Users can easily interact with the app through an intuitive interface that requires minimal input.
+--This Streamlit-based app allows users to search and download images from Google, compress them into a ZIP file, and send the images via email. Users can easily interact with the app through an intuitive interface that requires minimal input.
 
 
 
 Requirements
-To run this app locally, you will need:
+-To run this app locally, you will need:
 
-Python 3.x
+--Python 3.x
 
 Required Python libraries:
 
-Streamlit
-SerpAPI (pip install serpapi)
-Requests
-smtplib (built-in)
-zipfile (built-in)
+-Streamlit
+-SerpAPI (pip install serpapi)
+-Requests
+-smtplib (built-in)
+-zipfile (built-in)
 
-The interface is designed for simplicity and ease of use. The sidebar contains the following input fields:
+#The interface is designed for simplicity and ease of use. The sidebar contains the following input fields:
 
 Search Query: Enter the object or term to search for images.
 
